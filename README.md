@@ -98,7 +98,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any questions or suggestions, please open an issue or contact the repository owner.
 
 ```
-
-This `README.md` file provides an overview of the script, its features,
-installation instructions, usage details, and an example. It also includes
-sections for license and contributing information.
