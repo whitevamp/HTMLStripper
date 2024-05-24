@@ -46,7 +46,7 @@ and output file format.
 1. Run the script.
 
    ```bash
-   python html_file_cleaner_parser.py
+   python HTMLStripper.py
    ```
 
 2. Use the GUI to:
