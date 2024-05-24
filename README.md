@@ -84,7 +84,7 @@ And you select `/path/to/input_directory` as the input directory, `/path/to/outp
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
