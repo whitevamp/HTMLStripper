@@ -4,7 +4,10 @@ HTMLStripper, and exporter, to *.txt, *.doc, *.CSV, *.pdf, *.epub, *.html
 ```markdown
 # HTML Stripper
 
-This Python script recursively scans a directory for HTML files, strips out all HTML and JavaScript content, and saves the cleaned content to new files in a specified output format. The script provides a Tkinter-based graphical user interface (GUI) to select the input directory, output directory, and output file format.
+This Python script recursively scans a directory for HTML files, strips out all HTML and JavaScript
+content, and saves the cleaned content to new files in a specified output format. The script provides
+a Tkinter-based graphical user interface (GUI) to select the input directory, output directory,
+and output file format.
 
 ## Features
 
@@ -96,4 +99,6 @@ For any questions or suggestions, please open an issue or contact the repository
 
 ```
 
-This `README.md` file provides an overview of the script, its features, installation instructions, usage details, and an example. It also includes sections for license and contributing information.
+This `README.md` file provides an overview of the script, its features,
+installation instructions, usage details, and an example. It also includes
+sections for license and contributing information.
